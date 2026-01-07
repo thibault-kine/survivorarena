@@ -1,3 +1,3 @@
-# Test2D
+# SurvivorArena
 
 Developed with Unreal Engine 5
